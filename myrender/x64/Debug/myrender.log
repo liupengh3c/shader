@@ -1,0 +1,4 @@
+﻿  myrender.cpp
+D:\render\myrender\myrender\myrender.cpp(199,27): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\render\myrender\myrender\myrender.cpp(200,28): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  myrender.vcxproj -> D:\render\myrender\x64\Debug\myrender.exe
